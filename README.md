@@ -1,16 +1,16 @@
-## Hi there 👋
+# PlaybackTimer
 
-<!--
-**zhangdianyany99/zhangdianyany99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small search-first utility pages. The current live project is PlaybackTimer, a playback speed calculator for video, podcast, audiobook, lecture, and general listening use cases.
 
-Here are some ideas to get you started:
+## Live pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Playback Speed Calculator](https://playbacktimer.com/)
+- [Playback Speed Formula](https://playbacktimer.com/playback-speed-formula)
+- [YouTube Playback Speed Calculator](https://playbacktimer.com/youtube-playback-speed-calculator)
+- [Listening Speed Calculator](https://playbacktimer.com/listening-speed-calculator)
+
+## Project focus
+
+- Answer high-intent search queries with a tool-first page
+- Keep the calculator usable above the fold
+- Support related long-tail pages with internal links and FAQ coverage
